@@ -1,0 +1,36 @@
+* {
+    margin : 0;
+    padding: 15px;
+}
+
+#login-wrapper{
+    width: 600px;
+    margin: 65px auto;
+    box-shadow: 0 0 1em #ac3331;
+}
+
+body{
+    line-height: 1;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    color: #842626;
+}
+/* Full-width inputs */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(152, 90, 70);
+    box-sizing: border-box;
+}  
+
+/* Full-width inputs */
+input[type=text], input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(152, 90, 70);
+    box-sizing: border-box;
+}
