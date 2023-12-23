@@ -1,10 +1,9 @@
-# PEMOGRAMAAN WEB
+| Nama      | Muhammad Din Al Ayubi |
+| ----------- | ----------- |
+| NIM     | 312210293       |
+| Kelas   | TI.22.A.3        |
+| Tugas   | Lab12web        |
 
-## Nama : Ramadhan Ardi Iman Prakoso
-## NIM : 312210722
-## Kelas : TI. 22. A.3
-
-# PRAKTIKUM 12
 
 ## MEMBUAT TABEL : USER LOGIN
 
